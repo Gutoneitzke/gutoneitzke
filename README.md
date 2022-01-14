@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gutoneitzke)
 [![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gustavo-neitzke)
 
-![Gutoneitzke GitHub stats](https://github-readme-stats.vercel.app/api?username=gutoneitzke&show_icons=true&theme=tokyonight&count_private=true)
+<!-- ![Gutoneitzke GitHub stats](https://github-readme-stats.vercel.app/api?username=gutoneitzke&show_icons=true&theme=tokyonight&count_private=true)-->
 
 ## Tecnologias que mais utilizo
 <br>
