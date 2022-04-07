@@ -28,3 +28,5 @@
 - [APRENDA como criar um FORMULÁRIO com HTML e CSS](https://youtu.be/VCsNIRXNsmY)<br/>
 - [Aprenda como criar uma TELA de LOGIN com HTML e CSS](https://youtu.be/lP-XV2wXXQM)<br/>
 - [LARAVEL - 01 | Apresentação do CURSO](https://youtu.be/jy8I-wZzeN4)<br/>
+
+## ![Snake animation](https://github.com/Gutoneitzke/Gutoneitzke/blob/output/github-contribution-grid-snake.svg)
