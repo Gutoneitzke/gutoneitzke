@@ -29,4 +29,4 @@
 - [Aprenda como criar uma TELA de LOGIN com HTML e CSS](https://youtu.be/lP-XV2wXXQM)<br/>
 - [LARAVEL - 01 | Apresentação do CURSO](https://youtu.be/jy8I-wZzeN4)<br/>
 
-## ![Snake animation](https://github.com/Gutoneitzke/gutoneitzke/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gutoneitzke/gutoneitzke/blob/output/github-contribution-grid-snake.svg)
